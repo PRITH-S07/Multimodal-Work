@@ -1,6 +1,6 @@
 # Multimodal-Work
 
-## Human Pose Estimation Model Comparison Framework (hpe_model_comparison.py)
+## Human Pose Estimation Model Comparison Framework (model_comparison/hpe_model_comparison.py)
 
 A comprehensive framework for comparing different Human Pose Estimation (HPE) models and analyzing their impact on downstream tasks in multimodal processing pipelines.
 

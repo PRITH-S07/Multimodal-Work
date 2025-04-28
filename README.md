@@ -6,7 +6,7 @@ A comprehensive framework for comparing different Human Pose Estimation (HPE) mo
 
 ## Overview
 
-This framework allows researchers and developers to:
+This enables us to:
 
 - Compare different HPE models (ViTPose, OpenPose, HRNet, DEKR)
 - Analyze feature importance in pose-to-parsing pipelines
@@ -28,7 +28,7 @@ This framework allows researchers and developers to:
 
 ### Model Integration
 - CLIP text encoder integration
-- Dummy pose-to-parsing pipeline for demonstration
+- Dummy pose-to-parsing pipeline for demonstration (wanted to include something like this in our project)
 - Extensible architecture for custom model integration
 
 ## Example Usage
